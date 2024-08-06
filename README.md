@@ -28,7 +28,7 @@ Backend Setup
 
 1.Clone the Repository:
 
-git clone https://github.com/Aditya-21052131/interest-app.git
+git clone https://github.com/Aditya-21052131/ZentraTech-Developer-Test-2024
 
 cd interest-app/backend
 
